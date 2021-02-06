@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+}
+
+.Theme {
+  width: 100vw;
+  height: 100vh;
+  background-color: #3a3a3a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Canvas {
+  width: 70%;
+  height: 70%;
+  background-color: aliceblue;
+}
